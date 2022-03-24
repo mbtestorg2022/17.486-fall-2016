@@ -246,7 +246,7 @@ Fearon, James D. "[Domestic Politics, Foreign Policy, and Theories of Internatio
 
 Green, Michael J. "[Japan is Back: Unbundling Japan's Grand Strategy](https://www.lowyinstitute.org/publications/japan-back-unbundling-abe-s-grand-strategy)." Lowy Institute for International Policy, December 17, 2013.
 
-Hymans, Jacques E.C. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Veto Players, Nuclear Energy, and Nonproliferation: Domestic Institutional Barriers to a Japanese Bomb." (PDF)](https://www.belfercenter.org/sites/default/files/files/publication/veto_players.pdf) _International Security_ 36, no. 2 (2011): 154–89.
+Hymans, Jacques E.C. ["Veto Players, Nuclear Energy, and Nonproliferation: Domestic Institutional Barriers to a Japanese Bomb." (PDF)](https://www.belfercenter.org/sites/default/files/files/publication/veto_players.pdf) _International Security_ 36, no. 2 (2011): 154–89.
 
 \* Midford, Paul. _Rethinking Japanese Public Opinion and Security: From Pacifism to Realism?_ Stanford University Press, 2011. ISBN: 9780804772174. \[Preview with [Google Books](http://books.google.com/books?id=gErX8vqch9oC&pg=PAfrontcover)\]
 
@@ -278,7 +278,7 @@ _What are the instruments and institutions of Japanese foreign economic policy? 
 
 Armstrong, Shiro, and Peter Drysdale. "[Japan's Foreign Economic Policy Strategies and Economic Performance](https://academiccommons.columbia.edu/catalog/ac:179343)." Columbia Business School, Center on Japanese Economy and Business, Working Paper Series, no. 340, October 2014.
 
-Baldwin, Richard. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["21st Century Regionalism: Filling the Gap between 21st Century Trade and 20th Century Trade Rules." (PDF - 1.1MB)](http://cepr.org/sites/default/files/policy_insights/PolicyInsight56.pdf) Centre for Economic Policy Research, Policy Insight no. 56, May 2011.
+Baldwin, Richard. ["21st Century Regionalism: Filling the Gap between 21st Century Trade and 20th Century Trade Rules." (PDF - 1.1MB)](http://cepr.org/sites/default/files/policy_insights/PolicyInsight56.pdf) Centre for Economic Policy Research, Policy Insight no. 56, May 2011.
 
 Dent, Christopher M. "[Free Trade Agreements in the Asia-Pacific a Decade On: Evaluating the Past, Looking to the Future](https://doi.org/10.1093/irap/lcp022)." _International Relations of the Asia-Pacific_ 10, no. 2 (2010): 201–45.
 
@@ -330,7 +330,7 @@ Samuels, Richard J. "Never Waste a Good Crisis." Chapter 2 in _3:11: Disaster an
 
 ———. "Dueling Security Narratives." Chapter 4 in _3:11: Disaster and Change in Japan_. Cornell University Press, 2013. ISBN: 9780801452000. \[Preview with [Google Books](http://books.google.com/books?id=2KqdDgAAQBAJ&pg=PA80=onepage)\]
 
-Tamogami, Toshio. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Was Japan an Aggressor Nation?" (PDF)](http://ronbun.apa.co.jp/images/pdf/2008jyusyou_saiyuusyu_english.pdf) 2008.
+Tamogami, Toshio. ["Was Japan an Aggressor Nation?" (PDF)](http://ronbun.apa.co.jp/images/pdf/2008jyusyou_saiyuusyu_english.pdf) 2008.
 
 ### Suggested
 
@@ -388,7 +388,7 @@ Katahara, Eiichi, ed. _East Asian Strategic Review 2013_. National Institute for
 
 Pollack, Jonathan D. "U.S. Strategies in Northeast Asia: A Revisionist Hegemon." Chapter 3 in _Power and Security in Northeast Asia: Shifting Strategies_. Edited by Byung-Kook Kim and Anthony Jones. Lynne Rienner, 2007. ISBN: 9781588265067.
 
-Swaine, Michael D., Mike M. Mochizuki, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Executive Summary: China's Military & the U.S.-Japan Alliance in 2030 - A Strategic Net Assessment." (PDF)](http://carnegieendowment.org/files/net_asses_exec_summary.pdf) Carnegie Endowment for International Peace, 2013.
+Swaine, Michael D., Mike M. Mochizuki, et al. ["Executive Summary: China's Military & the U.S.-Japan Alliance in 2030 - A Strategic Net Assessment." (PDF)](http://carnegieendowment.org/files/net_asses_exec_summary.pdf) Carnegie Endowment for International Peace, 2013.
 
 Takahashi, Sugio.["Rebuilding Deterrence: Post-2015 Defense Guidelines Challenges Facing the U.S.-Japan Alliance." (PDF)](https://project2049.net/2015/05/21/rebuilding-deterrence-post-2015-defense-guidelines-challenges-facing-the-u-s-japan-alliance/) Project 2049 Institute, May 2015.
 
@@ -446,7 +446,7 @@ Kang, David C. "[Getting Asia Wrong: The Need for New Analytical Frameworks](htt
 
 \* Morris-Suzuki, Tessa. _Exodus to North Korea: Shadows from Japan's Cold War_. Rowman & Littlefield Publishers, 2007. ISBN: 9780742554429. \[Preview with [Google Books](http://books.google.com/books?id=DQwfAAAAQBAJ&pg=PAfrontcover)\]
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Report of the Advisory Panel on the History of the 20th Century and on Japan's Role and the World Order in the 21st Century." (PDF)](http://www.kantei.go.jp/jp/singi/21c_koso/pdf/report_en.pdf) August 6, 2015. _ (Read pp. 22__–31.)_
+["Report of the Advisory Panel on the History of the 20th Century and on Japan's Role and the World Order in the 21st Century." (PDF)](http://www.kantei.go.jp/jp/singi/21c_koso/pdf/report_en.pdf) August 6, 2015. _ (Read pp. 22__–31.)_
 
 Samuels, Richard J. "['New Fighting Power!': Japan's Growing Maritime Capabilities and East Asian Security](http://www.jstor.org/stable/30130519)." _International Security_ 32, no. 3 (2007 / 2008): 84–112.
 
